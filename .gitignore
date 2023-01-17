@@ -1,0 +1,4 @@
+data.txt
+
+tester/*
+!tester/deneme_github.html
